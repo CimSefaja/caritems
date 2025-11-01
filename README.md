@@ -4,6 +4,12 @@ Easily spawn vehicles as items in your OX Inventory system for ESX or QB Core.
 
 ---
 
+## Support
+
+Need help or want to chat with other users? Join our Discord: [Click here to join](https://discord.gg/H7DUpKpDvw)  
+
+---
+
 ## Installation
 
 1. Drag and drop the folder into your `resources` directory.
@@ -36,8 +42,3 @@ Easily spawn vehicles as items in your OX Inventory system for ESX or QB Core.
 
 4. Start the resource
 
-## Support
-
-Need help or want to chat with other users? Join our Discord: [Click here to join](https://discord.gg/H7DUpKpDvw)  
-
----
