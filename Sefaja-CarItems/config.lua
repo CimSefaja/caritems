@@ -10,9 +10,9 @@
 Config = {}
 
 Config.VehicleItems = {
-    ['zentorno'] = {
-        vehicle = 'zentorno',
-        label = 'Zentorno Key'
+    ['zentorno'] = {                -- item name in ox inventory
+        vehicle = 'zentorno',       -- vehicle spawn name
+        label = 'Zentorno'      -- item name 
     },
 }
 
