@@ -10,18 +10,10 @@
 Config = {}
 
 Config.VehicleItems = {
-    ['adder_key'] = {
-        vehicle = 'adder',
-        label = 'Adder Key'
-    },
-    ['zentorno_key'] = {
+    ['zentorno'] = {
         vehicle = 'zentorno',
         label = 'Zentorno Key'
     },
-    ['comet_key'] = {
-        vehicle = 'comet2',
-        label = 'Comet Key'
-    }
 }
 
 return Config
