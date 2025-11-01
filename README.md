@@ -32,6 +32,6 @@ Easily spawn vehicles as items in your OX Inventory system for ESX or QB Core.
             bone = 57005
         }
     }
-},
+}, ```
 
 4. Start the resource
